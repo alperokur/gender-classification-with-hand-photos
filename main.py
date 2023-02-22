@@ -2,6 +2,8 @@
 
     Bu projede 11K Hands veritabanı kullanılarak, el fotoğrafları üzerinden cinsiyet belirleme işlemi üzerinde çalışılmıştır.
     İki nokta arasındaki uzaklık yöntemi kullanılarak sınıflandırma sonucunda yaklaşık olarak %94-95 oranında bir doğruluk payı alınmıştır.
+    
+    Alper Okur & Esra Bilgili
 
 '''
 
